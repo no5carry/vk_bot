@@ -1,0 +1,7 @@
+dbname='postgres'
+user='postgres'
+host = 'localhost'
+password='pass2973'
+
+CREATE USER no5carry WITH password 'pass2973';
+CREATE DATABASE vk_database OWNER no5carry;
